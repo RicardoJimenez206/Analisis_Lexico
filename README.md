@@ -4,7 +4,7 @@ The "Analizador.java" file is a simple implementation of a lexical parser in Jav
 # Download and Installation of Analizador.java
 Follow the steps below to download and install Analizador.java on your system:
 
-Access the GitHub repository of Analizador.java: JMetaBFOP-UI Repository.
+Access the GitHub repository of Analizador.java.
 
 In the Analizador.java repository, go to the "releases" section and download the latest version of "Analizador.java" in rar format.
 
