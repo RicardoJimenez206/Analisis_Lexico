@@ -8,7 +8,7 @@ Access the GitHub repository of Analizador.java: JMetaBFOP-UI Repository.
 
 In the Analizador.java repository, go to the "releases" section and download the latest version of "Analizador.java" in rar format.
 
-Unzip the downloaded ZIP file to a location of your choice.
+Unzip the downloaded .ara file to a location of your choice.
 
 # Instruction
 
