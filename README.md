@@ -6,13 +6,13 @@ Follow the steps below to download and install Analizador.java on your system:
 
 Access the GitHub repository of Analizador.java: JMetaBFOP-UI Repository.
 
-In the Analizador.java repository, go to the "releases" section and download the latest version of "Analizador.java" in ZIP format.
+In the Analizador.java repository, go to the "releases" section and download the latest version of "Analizador.java" in rar format.
 
 Unzip the downloaded ZIP file to a location of your choice.
 
 # Instruction
 
-After unzipping the file .zip open the project in your netbeans application.
+After unzipping the file .rar open the project in your netbeans application.
 
 After that unfold the folder analisislexico.
 
